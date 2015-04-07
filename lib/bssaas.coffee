@@ -107,7 +107,7 @@ module.exports = class BSSAAS
 
   start: (port) =>
     @app.listen port
-    console.log "FOAAS v#{@VERSION} Started on port #{port}"
+    console.log "BSSAAS v#{@VERSION} Started on port #{port}"
 
   output: (req, res, message, subtitle) =>
     filters = []
