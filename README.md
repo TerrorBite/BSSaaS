@@ -3,7 +3,7 @@ Broad Sweeping Statements as a Service
 
 0.1.1
 
-[![Build Status](https://travis-ci.org/tomdionysus/foaas.svg?branch=master)](https://travis-ci.org/tomdionysus/foaas)
+[![Build Status](https://travis-ci.org/zenoio/BSSaaS.svg?branch=master)](https://travis-ci.org/zenoio/BSSaaS)
 
 BSSaaS (Broad Sweeping Statements as a Service) provides a modern, RESTful, scalable solution to the common problem of needing a broad sweeping statement.
 
