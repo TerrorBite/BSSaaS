@@ -1,0 +1,29 @@
+{
+  "name": "bssaas",
+  "version": "0.0.1",
+  "description": "Broad Sweeping Statements as a Service",
+  "engines": {
+    "node": "0.10.33"
+  },
+  "main": "lib/server.coffee",
+  "scripts": {
+    "start": "./node_modules/.bin/coffee lib/server.coffee",
+    "test": "./node_modules/.bin/jasmine-node --coffee spec"
+  },
+  "repository": "git@github.com:zenoio/BSSaaS",
+  "author": "Zeno Holdings PTY LTD",
+  "license": "GPL V2.0",
+  "devDependencies": {
+    "jasmine-node": "latest"
+  },
+  "dependencies": {
+    "coffee-script" : "1.9.0",
+    "express" : "3.0.0",
+    "sanitizer": "0.1.2",
+    "newrelic": "1.16.1",
+    "xml-escape": "1.0.0",
+    "request": "2.53.0",
+    "i18next": "1.7.9",
+    "MD5": "1.2.1"
+  }
+}
