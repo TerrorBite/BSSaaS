@@ -25,6 +25,7 @@
     "request": "2.53.0",
     "i18next": "1.7.9",
     "MD5": "1.2.1",
-    "mongoose": "4.0.1"
+    "mongoose": "4.0.1",
+    "bootstrap": "3.3.4"
   }
 }
