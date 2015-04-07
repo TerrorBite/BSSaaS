@@ -12,7 +12,7 @@
   },
   "repository": "git@github.com:zenoio/BSSaaS",
   "author": "Zeno Holdings PTY LTD",
-  "license": "GPL V2.0",
+  "license": "WTFPL",
   "devDependencies": {
     "jasmine-node": "latest"
   },
