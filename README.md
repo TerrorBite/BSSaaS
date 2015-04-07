@@ -11,15 +11,12 @@ Please see http://bssaas.com for API documentation and examples.
 
 # Installation
 
-	npm install
 
 # Run
 
-	npm start
 
 # Test
 
-	npm test
 
 
 # Integrate BSSaaS
